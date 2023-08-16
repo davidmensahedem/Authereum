@@ -1,6 +1,0 @@
-class Block{
-
-    constructor(){
-        
-    }
-}
